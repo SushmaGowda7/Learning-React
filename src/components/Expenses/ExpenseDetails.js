@@ -1,4 +1,7 @@
-function ExpenseDetails(props) {
+import React from "react";
+import ExpenseDate from "./ExpenseDate";
+
+const ExpenseDetails = (props) => {
     const title = props.amount.title;
     const amount = props.amount.amount;
 
