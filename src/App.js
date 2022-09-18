@@ -30,14 +30,14 @@ const DUMMY_EXPENSES = [
     title: 'Movie',
     amount: 300,
     location: 'Malur',
-    date: new Date(2022, 1, 1)
+    date: new Date(2021, 1, 1)
   },
   {
     id: 'e5',
     title: 'Outing',
     amount: 3000,
     location: 'Ooty',
-    date: new Date(2022, 0, 1)
+    date: new Date(2025, 0, 1)
   }
 ];
 
